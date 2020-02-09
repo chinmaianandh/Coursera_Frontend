@@ -25,7 +25,7 @@ html {
     width: 98%;
     margin: 10px 1%;
     float: left;
-    border: 3px solid black;
+    border: 1px solid black;
 }
 
 @media (min-width : 992px) {
@@ -47,8 +47,8 @@ html {
 h3 {
     float: right;
     padding: 10px;
-    margin: -3px;
-    border: 3px solid black;
+    margin: -1px;
+    border: 1px solid black;
 }
 
 p {
