@@ -1,0 +1,56 @@
+body {
+    background-color: gray;
+}
+
+.navbar {
+    background-color: darkcyan;
+}
+
+.navbar .navbar-brand {
+    height:fit-content;
+    color: darkorange;
+}
+
+.heading_menu h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border-bottom: 5px double black;
+}
+
+.col h3{
+    text-align: center;
+}
+
+#chicken {
+    background-color: lightcoral;
+}
+
+#beef {
+    background-color: lightpink;
+}
+
+#sushi {
+    background-color: lightgreen;
+}
+
+.conta {
+    padding: 10px;
+    margin:15px 0;
+    border-radius: 5px;
+}
+
+#collapsable-nav #nav-list {
+    background-color: greenyellow;
+}
+
+#nav-list li {
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    box-shadow: 2px 1px saddlebrown;
+}
+
+#nav-list li:hover {
+    box-shadow: 4px 2px saddlebrown;
+}
